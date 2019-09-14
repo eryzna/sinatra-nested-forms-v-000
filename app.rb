@@ -23,7 +23,7 @@ module FormsLab
     end
 
     post '/pirate' do
-      "Pirates"
+      
     end
 
   end
